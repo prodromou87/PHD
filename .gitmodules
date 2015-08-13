@@ -1,3 +1,27 @@
 [submodule "it"]
 	path = it
 	url = https://github.com/prodromou87/it.git
+[submodule "writings"]
+	path = writings
+	url = https://github.com/prodromou87/writings.git
+[submodule "software"]
+	path = software
+	url = https://github.com/prodromou87/software.git
+[submodule "reviews"]
+	path = reviews
+	url = https://github.com/prodromou87/reviews.git
+[submodule "research"]
+	path = research
+	url = https://github.com/prodromou87/research.git
+[submodule "readings"]
+	path = readings
+	url = https://github.com/prodromou87/readings.git
+[submodule "classes"]
+	path = classes
+	url = https://github.com/prodromou87/classes.git
+[submodule "CurriculumVitae"]
+	path = CurriculumVitae
+	url = https://github.com/prodromou87/CurriculumVitae.git
+[submodule "gem5"]
+	path = gem5
+	url = https://github.com/prodromou87/gem5.git
